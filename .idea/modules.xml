@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/executorservice/executorservice.iml" filepath="$PROJECT_DIR$/executorservice/executorservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-executor-service.iml" filepath="$PROJECT_DIR$/.idea/java-executor-service.iml" />
+    </modules>
+  </component>
+</project>
