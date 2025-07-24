@@ -17,6 +17,7 @@ public class Main {
         CompletableFuture<Void> future = CompletableFuture.runAsync(this::display, executor);
         CompletableFuture<Void> future1 = CompletableFuture.runAsync(this::disp, executor);
         CompletableFuture<Void> future2 = CompletableFuture.runAsync(this::disp2, executor);
+        executor.shutdown();
     }
 
     public void display() {
